@@ -46,7 +46,7 @@ This rolling mechanism ensures the database always has **the latest 5 days of we
 
 ## 🚀 Running the Project
 
-### 1. Install dependencies
+### 1. Install dependencies in root and lambda folder
 
 ```bash
 npm install
